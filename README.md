@@ -17,5 +17,11 @@ Load the model and you can start experimenting
 
 The version for pytoch are as follows:
 torch==1.13.0+cu117
+
 torchdata==0.5.0
+
 torchtext==0.14.0
+
+
+
+bert.ipynb contains the score of bert fine-tuned on same dataset.  There is a difference of about 3% accuracy on test dataset.
