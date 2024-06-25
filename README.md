@@ -12,3 +12,10 @@ https://drive.google.com/file/d/12bXK0aNVZK8_f7sYaCrRqbdRllOtZKmE/view?usp=drive
 Place in same directory as code
 
 Load the model and you can start experimenting
+
+
+
+The version for pytoch are as follows:
+torch==1.13.0+cu117
+torchdata==0.5.0
+torchtext==0.14.0
